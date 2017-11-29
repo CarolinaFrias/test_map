@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2520",
+        "NAME_3": "Alhandra",
+        "VALOR": "0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2521",
+        "NAME_3": "Alverca Do Ribatejo",
+        "VALOR": "2969530"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2522",
+        "NAME_3": "Cachoeiras",
+        "VALOR": "0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2523",
+        "NAME_3": "Calhandriz",
+        "VALOR": "11500"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2524",
+        "NAME_3": "Castanheira Do Ribatejo",
+        "VALOR": "647910"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2525",
+        "NAME_3": "Forte Da Casa",
+        "VALOR": "0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2526",
+        "NAME_3": "Póvoa De Santa Iria",
+        "VALOR": "0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2527",
+        "NAME_3": "São João Dos Montes",
+        "VALOR": "0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2528",
+        "NAME_3": "Santa Iria De Azoia",
+        "VALOR": "0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2529",
+        "NAME_3": "Sobralinho",
+        "VALOR": "0"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2530",
+        "NAME_3": "Vialonga",
+        "VALOR": "1917280"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID_0": "182",
+        "NAME_0": "Portugal",
+        "ID_1": "12",
+        "NAME_1": "Lisboa",
+        "ID_2": "180",
+        "NAME_2": "Vila Franca de Xira",
+        "ID_3": "2531",
+        "NAME_3": "Vila Franca De Xira",
+        "VALOR": "0"
+      },
+      "geometry": null
+    }
+  ]
+}
